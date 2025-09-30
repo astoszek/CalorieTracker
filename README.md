@@ -1,5 +1,5 @@
-# calorie_tracker_django_zaliczenie
-Projekt na zaliczenie. Lokalna webowa aplikacja do liczenia kalorii oraz makrosłkadniki
+### calorie_tracker_django_zaliczenie
+Projekt na zaliczenie. Lokalna webowa aplikacja do liczenia kalorii oraz makrosłkadników.
 
 ## Opis funkcji:
 
@@ -9,20 +9,20 @@ Projekt na zaliczenie. Lokalna webowa aplikacja do liczenia kalorii oraz makros�
 - prosty interfejs webowy z formularzem i tabelą.
 
 ## Instalacja
-Zainstaluj zależności
+#Zainstaluj zależności
 `pip install -r requirements.txt`
 
-Utwórz i włącz wirtualne środowisko
+#Utwórz i włącz wirtualne środowisko
 `python -m venv .venv`
 
-Zainicjalizuj bazę
+#Zainicjalizuj bazę
 `python manage.py makemigrations`
 `python manage.py migrate`
 
-Uruchom aplikację
+#Uruchom aplikację
 `python manage.py runserver`
 
-Aplikacja będzie dostepna localhost:8000
+#Aplikacja będzie dostepna localhost:8000
 
 
 ![Podgląd aplikacji](calorie_tracker.png)
