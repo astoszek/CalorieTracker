@@ -23,3 +23,6 @@ Uruchom aplikację
 `python manage.py runserver`
 
 Aplikacja będzie dostepna localhost:8000
+
+
+![Podgląd aplikacji](<img width="1902" height="920" alt="calorie_tracker" src="https://github.com/user-attachments/assets/711e41ed-adb4-4f31-90bb-4ce89228dd57" />)
