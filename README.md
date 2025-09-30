@@ -25,4 +25,4 @@ Uruchom aplikację
 Aplikacja będzie dostepna localhost:8000
 
 
-![Podgląd aplikacji]()
+![Podgląd aplikacji](calorie_tracker.png)
