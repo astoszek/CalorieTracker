@@ -6,7 +6,8 @@ Projekt na zaliczenie. Lokalna webowa aplikacja do liczenia kalorii oraz makros�
 - liczenie kalorii oraz makroskładników na podstawie kilku podanych składników
 - zliczanie spożytych makroskładników to jest węglowodanów, białek i tłuszczów, przedstawione również w formie diagramu kołowego
 - zliczanie kalorii z ustaloną wartością na 2000 kalorii
-- prosty interfejs webowy z formularzem i tabelą.
+- prosty interfejs webowy z formularzem i tabelą
+- łaczenie ze swoim kontem, co pozwala na indywidualnę podejście do każdej osoby
 
 # Instalacja
 Zainstaluj zależności
@@ -23,6 +24,7 @@ Uruchom aplikację
 `python manage.py runserver`
 
 Aplikacja będzie dostepna localhost:8000
+`użyj konta "test" do połaczenia`
 
 
 ![Podgląd aplikacji](calorie_tracker.png)
