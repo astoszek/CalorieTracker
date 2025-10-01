@@ -116,3 +116,12 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# Gdzie przekierować niezalogowanego użytkownika
+LOGIN_URL = '/login/'
+
+# Po zalogowaniu przekierowanie
+LOGIN_REDIRECT_URL = '/'
+
+# Po wylogowaniu przekierowanie
+LOGOUT_REDIRECT_URL = '/login/'
